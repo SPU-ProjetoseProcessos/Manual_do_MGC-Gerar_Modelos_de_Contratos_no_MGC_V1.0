@@ -44,7 +44,7 @@
       </g>
       <svg width="417" height="30" class="djs-svg-text">
         <text font-family="'Segoe UI'" font-size="11.9533px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="172.0052" y="18.5">Acessar MGC</tspan>
+          <tspan x="165.3009" y="18.5">1. Acessar MGC</tspan>
         </text>
       </svg>
     </g>
@@ -59,7 +59,7 @@
       </g>
       <svg width="1160" height="30" class="djs-svg-text">
         <text font-family="'Segoe UI'" font-size="11.9533px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="525.8049" y="18.5">Menu: Instrumento</tspan>
+          <tspan x="519.1006" y="18.5">2. Menu: Instrumento</tspan>
         </text>
       </svg>
     </g>
@@ -74,7 +74,7 @@
       </g>
       <svg width="305" height="30" class="djs-svg-text">
         <text font-family="'Segoe UI'" font-size="11.9533px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="77.4508" y="18.5">Menu: Tipo de Documento</tspan>
+          <tspan x="70.74643" y="18.5">3. Menu: Tipo de Documento</tspan>
         </text>
       </svg>
     </g>
@@ -89,7 +89,7 @@
       </g>
       <svg width="425" height="30" class="djs-svg-text">
         <text font-family="'Segoe UI'" font-size="11.9533px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="128.3541" y="18.5">Menu: Modelo de Documento</tspan>
+          <tspan x="121.6497" y="18.5">4. Menu: Modelo de Documento</tspan>
         </text>
       </svg>
     </g>
@@ -328,7 +328,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 85, 508)" id="gfx-ce1421ab-9593-440c-945f-8987871af1b9" display="block" class="djs-element djs-shape" data-element-id="ce1421ab-9593-440c-945f-8987871af1b9">
+    <g transform="matrix(1, 0, 0, 1, 85, 508)" id="gfx-03757ee6-2f5a-4809-843a-602857b36640" display="block" class="djs-element djs-shape" data-element-id="03757ee6-2f5a-4809-843a-602857b36640">
       <g class="djs-visual">
         <rect x="0" y="0" width="101" height="42" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="101" height="37" class="djs-svg-text">
@@ -353,7 +353,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 2240, 509)" id="gfx-f5eb8805-982a-4bfe-8816-6199ecde938a" display="block" class="djs-element djs-shape" data-element-id="f5eb8805-982a-4bfe-8816-6199ecde938a">
+    <g transform="matrix(1, 0, 0, 1, 2240, 509)" id="gfx-9e24126d-f085-4c85-8b43-22909f34d560" display="block" class="djs-element djs-shape" data-element-id="9e24126d-f085-4c85-8b43-22909f34d560">
       <g class="djs-visual">
         <rect x="0" y="0" width="121" height="50" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="121" height="45" class="djs-svg-text">
@@ -376,7 +376,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 492, 510)" id="gfx-c2e171b9-f5af-4fbb-9ea3-1359fbb89bd5" display="block" class="djs-element djs-shape" data-element-id="c2e171b9-f5af-4fbb-9ea3-1359fbb89bd5">
+    <g transform="matrix(1, 0, 0, 1, 492, 510)" id="gfx-abc61145-39b5-4ac0-b8ee-9e5afcdeb0bc" display="block" class="djs-element djs-shape" data-element-id="abc61145-39b5-4ac0-b8ee-9e5afcdeb0bc">
       <g class="djs-visual">
         <rect x="0" y="0" width="89" height="44" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="89" height="39" class="djs-svg-text">
@@ -399,7 +399,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 181, 512)" id="gfx-8b6ddfe4-dcd1-409d-89e7-0828496e6ba2" display="block" class="djs-element djs-shape" data-element-id="8b6ddfe4-dcd1-409d-89e7-0828496e6ba2">
+    <g transform="matrix(1, 0, 0, 1, 181, 512)" id="gfx-e15e235b-e007-4791-8ef1-cc42531f0183" display="block" class="djs-element djs-shape" data-element-id="e15e235b-e007-4791-8ef1-cc42531f0183">
       <g class="djs-visual">
         <rect x="0" y="0" width="100" height="44" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="100" height="39" class="djs-svg-text">
@@ -422,7 +422,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 776, 511)" id="gfx-e5629211-4d84-43b1-9f2a-ede90cc7eec4" display="block" class="djs-element djs-shape" data-element-id="e5629211-4d84-43b1-9f2a-ede90cc7eec4">
+    <g transform="matrix(1, 0, 0, 1, 776, 511)" id="gfx-76b7bf17-b8d2-437a-8a5e-8f8ff813370e" display="block" class="djs-element djs-shape" data-element-id="76b7bf17-b8d2-437a-8a5e-8f8ff813370e">
       <g class="djs-visual">
         <rect x="0" y="0" width="104" height="53" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="104" height="48" class="djs-svg-text">
@@ -446,7 +446,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1063, 510)" id="gfx-0ddd639c-b7aa-4439-b6a2-0e02eaa9a1c0" display="block" class="djs-element djs-shape" data-element-id="0ddd639c-b7aa-4439-b6a2-0e02eaa9a1c0">
+    <g transform="matrix(1, 0, 0, 1, 1063, 510)" id="gfx-5f3d4906-ae56-4676-9faa-9c89cfceacc9" display="block" class="djs-element djs-shape" data-element-id="5f3d4906-ae56-4676-9faa-9c89cfceacc9">
       <g class="djs-visual">
         <rect x="0" y="0" width="89" height="44" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="89" height="39" class="djs-svg-text">
@@ -469,7 +469,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1347, 511)" id="gfx-9bc6e119-151c-4185-98c4-d2e41a9e1794" display="block" class="djs-element djs-shape" data-element-id="9bc6e119-151c-4185-98c4-d2e41a9e1794">
+    <g transform="matrix(1, 0, 0, 1, 1347, 511)" id="gfx-8eefad76-7965-4454-8cc4-2897d4bd0143" display="block" class="djs-element djs-shape" data-element-id="8eefad76-7965-4454-8cc4-2897d4bd0143">
       <g class="djs-visual">
         <rect x="0" y="0" width="104" height="53" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="104" height="48" class="djs-svg-text">
@@ -492,7 +492,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1622, 512)" id="gfx-f97e8c22-3d6f-4309-bac3-a10d88ab2d84" display="block" class="djs-element djs-shape" data-element-id="f97e8c22-3d6f-4309-bac3-a10d88ab2d84">
+    <g transform="matrix(1, 0, 0, 1, 1622, 512)" id="gfx-2d264346-288e-4488-9425-e2509393dba5" display="block" class="djs-element djs-shape" data-element-id="2d264346-288e-4488-9425-e2509393dba5">
       <g class="djs-visual">
         <rect x="0" y="0" width="150" height="53" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="150" height="48" class="djs-svg-text">
@@ -515,7 +515,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1944, 511)" id="gfx-ac2995ca-0064-4163-9c87-92c17513f848" display="block" class="djs-element djs-shape" data-element-id="ac2995ca-0064-4163-9c87-92c17513f848">
+    <g transform="matrix(1, 0, 0, 1, 1944, 511)" id="gfx-fa296306-a170-48f3-8aa5-c2438fe71689" display="block" class="djs-element djs-shape" data-element-id="fa296306-a170-48f3-8aa5-c2438fe71689">
       <g class="djs-visual">
         <rect x="0" y="0" width="113" height="46" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="113" height="41" class="djs-svg-text">
@@ -679,7 +679,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 477, 388)" id="gfx-fb02e761-4455-430f-861d-b134cad14cf9" display="block" class="djs-element djs-shape" data-element-id="fb02e761-4455-430f-861d-b134cad14cf9">
+    <g transform="matrix(1, 0, 0, 1, 477, 388)" id="gfx-aa6091f1-2a93-4bf0-addc-da673a599052" display="block" class="djs-element djs-shape" data-element-id="aa6091f1-2a93-4bf0-addc-da673a599052">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
@@ -705,7 +705,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 543, 470)" id="gfx-f90b0f2f-b2e5-4926-b83f-62445bf73d8a" display="block" class="djs-element djs-shape" data-element-id="f90b0f2f-b2e5-4926-b83f-62445bf73d8a">
+    <g transform="matrix(1, 0, 0, 1, 543, 470)" id="gfx-aad4469c-b454-47ae-9bf6-5d093de5933b" display="block" class="djs-element djs-shape" data-element-id="aad4469c-b454-47ae-9bf6-5d093de5933b">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
@@ -745,7 +745,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 230, 471)" id="gfx-ac431185-4e82-48b2-a966-b64c15f1a319" display="block" class="djs-element djs-shape" data-element-id="ac431185-4e82-48b2-a966-b64c15f1a319">
+    <g transform="matrix(1, 0, 0, 1, 230, 471)" id="gfx-480d3c34-55bb-40fa-9d42-a0281029aeb6" display="block" class="djs-element djs-shape" data-element-id="480d3c34-55bb-40fa-9d42-a0281029aeb6">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
@@ -771,7 +771,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 171, 387)" id="gfx-0c5374ca-3b87-40cf-ac8e-1fd2d67f0dcd" display="block" class="djs-element djs-shape" data-element-id="0c5374ca-3b87-40cf-ac8e-1fd2d67f0dcd">
+    <g transform="matrix(1, 0, 0, 1, 171, 387)" id="gfx-fe380d61-7f92-49cf-931c-4f71791273f3" display="block" class="djs-element djs-shape" data-element-id="fe380d61-7f92-49cf-931c-4f71791273f3">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
@@ -811,7 +811,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 767, 384)" id="gfx-a21adf5e-2616-45bb-9936-52590ee5ebdb" display="block" class="djs-element djs-shape" data-element-id="a21adf5e-2616-45bb-9936-52590ee5ebdb">
+    <g transform="matrix(1, 0, 0, 1, 767, 384)" id="gfx-cbc7ce80-cfe5-407a-8182-319227fbb73f" display="block" class="djs-element djs-shape" data-element-id="cbc7ce80-cfe5-407a-8182-319227fbb73f">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
@@ -837,7 +837,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1338, 384)" id="gfx-640e6f23-6431-4d55-a494-ae19067d1134" display="block" class="djs-element djs-shape" data-element-id="640e6f23-6431-4d55-a494-ae19067d1134">
+    <g transform="matrix(1, 0, 0, 1, 1338, 384)" id="gfx-1b29207b-5eb0-4570-94c2-a116faec370e" display="block" class="djs-element djs-shape" data-element-id="1b29207b-5eb0-4570-94c2-a116faec370e">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
@@ -863,7 +863,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 828, 470)" id="gfx-de76d2e3-9b38-4451-ac85-77bedb66da4a" display="block" class="djs-element djs-shape" data-element-id="de76d2e3-9b38-4451-ac85-77bedb66da4a">
+    <g transform="matrix(1, 0, 0, 1, 828, 470)" id="gfx-be358c36-4178-418b-99a2-09729dd5b330" display="block" class="djs-element djs-shape" data-element-id="be358c36-4178-418b-99a2-09729dd5b330">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
@@ -889,7 +889,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1114, 470)" id="gfx-83bb973b-eba5-4027-b814-3ddfeadec064" display="block" class="djs-element djs-shape" data-element-id="83bb973b-eba5-4027-b814-3ddfeadec064">
+    <g transform="matrix(1, 0, 0, 1, 1114, 470)" id="gfx-349f25a5-a2a4-44c3-b2f3-b99dd50b82d2" display="block" class="djs-element djs-shape" data-element-id="349f25a5-a2a4-44c3-b2f3-b99dd50b82d2">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
@@ -915,7 +915,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1059, 387)" id="gfx-0b1d777c-da2d-4fe4-a413-3d050d9ba195" display="block" class="djs-element djs-shape" data-element-id="0b1d777c-da2d-4fe4-a413-3d050d9ba195">
+    <g transform="matrix(1, 0, 0, 1, 1059, 387)" id="gfx-330826a6-2a5e-4954-9108-d5c023e7ed76" display="block" class="djs-element djs-shape" data-element-id="330826a6-2a5e-4954-9108-d5c023e7ed76">
       <g class="djs-visual">
         <rect x="0" y="0" width="73" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="73" height="25" class="djs-svg-text">
@@ -941,7 +941,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1396, 470)" id="gfx-1b9e4ccd-8242-4e6b-808d-c944f1a1253e" display="block" class="djs-element djs-shape" data-element-id="1b9e4ccd-8242-4e6b-808d-c944f1a1253e">
+    <g transform="matrix(1, 0, 0, 1, 1396, 470)" id="gfx-d21e5f18-c144-46b2-9866-1d4edc3ccd3d" display="block" class="djs-element djs-shape" data-element-id="d21e5f18-c144-46b2-9866-1d4edc3ccd3d">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
@@ -1079,7 +1079,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1696, 470)" id="gfx-1d9a3df5-3688-4b1e-9ce2-6497d042a8c5" display="block" class="djs-element djs-shape" data-element-id="1d9a3df5-3688-4b1e-9ce2-6497d042a8c5">
+    <g transform="matrix(1, 0, 0, 1, 1696, 470)" id="gfx-784dffc9-070e-4b86-892f-cb105e150382" display="block" class="djs-element djs-shape" data-element-id="784dffc9-070e-4b86-892f-cb105e150382">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
@@ -1119,7 +1119,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1636, 387)" id="gfx-b9e418ac-dd04-4f9a-ba45-fbe74d80b27f" display="block" class="djs-element djs-shape" data-element-id="b9e418ac-dd04-4f9a-ba45-fbe74d80b27f">
+    <g transform="matrix(1, 0, 0, 1, 1636, 387)" id="gfx-e51ddd13-bc55-4fba-b604-1d6aa1bd521d" display="block" class="djs-element djs-shape" data-element-id="e51ddd13-bc55-4fba-b604-1d6aa1bd521d">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
@@ -1145,7 +1145,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1998, 469)" id="gfx-d5b511c7-711a-427a-a572-c63174e237ce" display="block" class="djs-element djs-shape" data-element-id="d5b511c7-711a-427a-a572-c63174e237ce">
+    <g transform="matrix(1, 0, 0, 1, 1998, 469)" id="gfx-8e2fadfa-88fd-490f-8389-a13365afaa00" display="block" class="djs-element djs-shape" data-element-id="8e2fadfa-88fd-490f-8389-a13365afaa00">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
@@ -1185,7 +1185,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1939, 384)" id="gfx-fd834343-ad85-4b20-84fb-7d165058210d" display="block" class="djs-element djs-shape" data-element-id="fd834343-ad85-4b20-84fb-7d165058210d">
+    <g transform="matrix(1, 0, 0, 1, 1939, 384)" id="gfx-defc4e9d-8137-4330-bad0-f9dc2d9f5978" display="block" class="djs-element djs-shape" data-element-id="defc4e9d-8137-4330-bad0-f9dc2d9f5978">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
